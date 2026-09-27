@@ -11,7 +11,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/PYTHON-Developer-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/LEARNING-Web%20Development-A5F3FC?style=for-the-badge&logo=html5&logoColor=A5F3FC&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/BUILDING-Projects-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117"/>
 
 </div>
