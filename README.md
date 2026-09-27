@@ -2,22 +2,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,75:111827,100:020617&text=SHRUTI%20THAKUR&fontColor=00FFFF&fontSize=52&fontAlignY=38&desc=Python%20Developer%20%7C%20Learning%20%26%20Building&descAlignY=60&descSize=18&descColor=A5F3FC&animation=twinkling" width="100%"/>
+<h1>⚡ SHRUTI THAKUR ⚡</h1>
+
+<h3>🐍 Python Developer &nbsp;•&nbsp; Learning & Building</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shruti+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Learning+Python+%26+Web+Development+%F0%9F%92%BB;Building+My+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shruti+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Learning+Python+%26+Web+Development+%F0%9F%92%BB;Building+My+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%E2%9C%A8" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/PYTHON-Developer-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LEARNING-Web%20Development-A5F3FC?style=for-the-badge&logo=html5&logoColor=A5F3FC&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/BUILDING-Projects-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117"/>
 
+<br><br>
+
 </div>
 
 ---
-
 <!-- ================= WHO AM I ================= -->
 
 ## 🖥️ `> whoami`
