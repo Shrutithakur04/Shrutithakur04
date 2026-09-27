@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>⚡ SHRUTI THAKUR ⚡</h1>
+<h1> SHRUTI THAKUR </h1>
 
 <h3>🐍 Python Developer &nbsp;•&nbsp; Learning & Building</h3>
 
@@ -140,15 +140,14 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrutithakur04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutithakur04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%"/>
+🔥 Building projects  
+🐍 Learning Python  
+🌐 Exploring Web Development  
+💻 Practicing every day
 
 </div>
 
