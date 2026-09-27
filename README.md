@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<h1> SHRUTI THAKUR </h1>
+<br>
 
-<h3>🐍 Python Developer &nbsp;•&nbsp; Learning & Building</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=120&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=%3E_SHRUTI_THAKUR_%3C" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shruti+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Learning+Python+%26+Web+Development+%F0%9F%92%BB;Building+My+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=A5F3FC&center=true&vCenter=true&width=750&height=50&lines=Python+Developer+%F0%9F%90%8D;Learning+%26+Building+%F0%9F%92%BB;Exploring+Web+Development+%F0%9F%8C%90;Building+My+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%E2%9C%A8" />
 
 <br><br>
 
