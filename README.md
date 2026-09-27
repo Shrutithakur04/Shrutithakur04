@@ -11,40 +11,16 @@
 <br>
 
 <img src="https://img.shields.io/badge/PYTHON-Developer-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117"/>
-
 <img src="https://img.shields.io/badge/LEARNING-Web%20Development-A5F3FC?style=for-the-badge&logo=html5&logoColor=A5F3FC&labelColor=0D1117"/>
-
 <img src="https://img.shields.io/badge/BUILDING-Projects-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117"/>
 
 </div>
 
 ---
 
+<!-- ================= WHO AM I ================= -->
+
 ## 🖥️ `> whoami`
-
-
-## 👾 `> about_me`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   👩‍💻  DEVELOPER PROFILE                        ║
-║                                                  ║
-║   > Python enthusiast                            ║
-║   > Love building practical projects             ║
-║   > Exploring web technologies                   ║
-║   > Learning through real-world coding           ║
-║   > Turning ideas into working software          ║
-║                                                  ║
-║   CURRENT MISSION                                ║
-║   ───────────────────────────────────────────    ║
-║   Learn • Build • Experiment • Improve           ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-
-```
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -53,7 +29,7 @@
 ║   ROLE       : Python Developer              ║
 ║   STATUS     : ONLINE ●                      ║
 ║   CURRENTLY  : Learning & Building           ║
-║   LOCATION   : India 🇮🇳                      ║
+║   LOCATION   : India 🇮🇳                     ║
 ║                                              ║
 ║   > Turning ideas into code...               ║
 ║   > Building projects...                     ║
@@ -61,7 +37,38 @@
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
+
 ---
+
+<!-- ================= ABOUT ME ================= -->
+
+## 👾 `> about_me`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║        👩‍💻  DEVELOPER PROFILE                    ║
+║                                                  ║
+║   > Python enthusiast                            ║
+║   > Building practical projects                  ║
+║   > Exploring web development                    ║
+║   > Learning through coding                      ║
+║   > Improving one project at a time              ║
+║                                                  ║
+║   CURRENT MISSION                                ║
+║   ───────────────────────────────────────────    ║
+║   Learn • Build • Experiment • Improve           ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
 
 # ⚡ Tech Stack
 
@@ -69,47 +76,68 @@
 
 <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-🐍 Python &nbsp;&nbsp; 🌐 HTML &nbsp;&nbsp; 🎨 CSS &nbsp;&nbsp; 🔧 Git &nbsp;&nbsp; 🐙 GitHub
+🐍 Python &nbsp;&nbsp;
+🌐 HTML &nbsp;&nbsp;
+🎨 CSS &nbsp;&nbsp;
+🔧 Git &nbsp;&nbsp;
+🐙 GitHub &nbsp;&nbsp;
+💻 VS Code
 
 </div>
 
 ---
+
+<!-- ================= PROJECTS ================= -->
 
 # 🎮 My Projects
 
-## 🟢 LEVEL 01 — Python E-Commerce Shopping Cart
+<div align="center">
 
-> 🛒 E-Commerce Shopping Cart System using Python and OOP concepts.
+### 🟢 LEVEL 01
+
+</div>
+
+## 🛒 Python E-Commerce Shopping Cart
+
+> An E-Commerce Shopping Cart System built with Python and Object-Oriented Programming concepts.
 
 **Tech:** `Python` `OOP`
 
 <div align="center">
 
-[🚀 VIEW PROJECT](https://github.com/Shrutithakur04/python-ecommerce-shopping-cart)
+<a href="https://github.com/Shrutithakur04/python-ecommerce-shopping-cart">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
+</a>
 
 </div>
 
 ---
 
-## 🔵 LEVEL 02 — Python Bank Management System
+<div align="center">
 
-> 🏦 Bank Management System using Python and OOP concepts.
+### 🔵 LEVEL 02
+
+</div>
+
+## 🏦 Python Bank Management System
+
+> A Bank Management System built with Python and Object-Oriented Programming concepts.
 
 **Tech:** `Python` `OOP`
 
 <div align="center">
 
-[🚀 VIEW PROJECT](https://github.com/Shrutithakur04/python-bank-management-system)
+<a href="https://github.com/Shrutithakur04/python-bank-management-system">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
+</a>
 
 </div>
 
 ---
+
+<!-- ================= GITHUB STATS ================= -->
 
 # 📊 GitHub Stats
 
@@ -123,6 +151,8 @@
 
 ---
 
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -133,6 +163,8 @@
 
 ---
 
+<!-- ================= DEVELOPER MODE ================= -->
+
 # ⚡ Developer Mode
 
 <div align="center">
@@ -140,30 +172,36 @@
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║   🐍 PYTHON        ████████████████░░  80%   ║
-║   🌐 WEB           ████████████░░░░░  60%   ║
-║   🧠 PROBLEM SOLVE ██████████░░░░░░░  50%   ║
-║   🚀 PROJECTS      ████████████░░░░░  65%   ║
+║   🐍 PYTHON                                  ║
+║   🌐 WEB DEVELOPMENT                         ║
+║   🚀 PROJECT BUILDING                        ║
+║   📚 CONTINUOUS LEARNING                     ║
 ║                                              ║
-║   > STATUS: BUILDING...                     ║
-║   > NEXT_LEVEL: LOADING...                  ║
+║   > STATUS: BUILDING...                      ║
+║   > NEXT_LEVEL: LOADING...                   ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
-
 ```
 
-# 🌐 Connect With Me
+</div>
 
+---
+
+<!-- ================= CONNECT ================= -->
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Shrutithakur04">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </div>
 
 ---
+
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
@@ -178,5 +216,9 @@
 ║                                      ║
 ╚══════════════════════════════════════╝
 ```
-</div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:111827,100:0f172a&section=footer" width="100%"/>
+
+</div>
