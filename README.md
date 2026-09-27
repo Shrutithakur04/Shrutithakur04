@@ -131,15 +131,24 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚡ Developer Mode
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutithakur04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   🐍 PYTHON        ████████████████░░  80%   ║
+║   🌐 WEB           ████████████░░░░░  60%   ║
+║   🧠 PROBLEM SOLV ██████████░░░░░░░  50%   ║
+║   🚀 PROJECTS      ████████████░░░░░  65%   ║
+║                                              ║
+║   > STATUS: BUILDING...                     ║
+║   > NEXT_LEVEL: LOADING...                  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
-</div>
-
----
+```
 
 # 🌐 Connect With Me
 
