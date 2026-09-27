@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=120&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=SHRUTI THAKUR" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=180&pause=1800&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Shruti" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=A5F3FC&center=true&vCenter=true&width=750&height=50&lines=Python+Developer+%F0%9F%90%8D;Learning+%26+Building+%F0%9F%92%BB;Exploring+Web+Development+%F0%9F%8C%90;Building+My+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%E2%9C%A8" />
+<h3>🐍 Python Developer &nbsp;•&nbsp; Learning & Building</h3>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/PYTHON-Developer-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LEARNING-Web%20Development-A5F3FC?style=for-the-badge&logo=html5&logoColor=A5F3FC&labelColor=0D1117"/>
@@ -21,6 +21,7 @@
 </div>
 
 ---
+
 <!-- ================= WHO AM I ================= -->
 
 ## 🖥️ `> whoami`
