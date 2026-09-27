@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=120&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=%3E_SHRUTI_THAKUR_%3C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=120&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=SHRUTI THAKUR" />
 
 <br>
 
