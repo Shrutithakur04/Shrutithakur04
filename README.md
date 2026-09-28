@@ -10,6 +10,16 @@
 
 </div>
 
+<!-- ================= DEVELOPER BACKGROUND ================= -->
+
+<div align="center">
+
+<img src="./shruti_readme_background_only.gif" width="100%"/>
+
+</div>
+
+---
+
 ---
 <!-- ================= WHO AM I ================= -->
 
