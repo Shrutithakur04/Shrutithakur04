@@ -155,17 +155,17 @@
 
 ---
 
----
-
-# 📈 GitHub Activity Graph
+## 🔥 Contribution Streak
 
 <div align="center">
 
-[![Shruti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrutithakur04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF)](https://github.com/Shrutithakur04)
+<img
+  src="https://contribkit.app/user/Shrutithakur04.svg?palette=tokyonight&shape=square&background=%230D1117"
+  width="90%"
+  alt="Shruti Thakur Contribution Streak"
+/>
 
 </div>
-
----
 
 <!-- ================= DEVELOPER MODE ================= -->
 
