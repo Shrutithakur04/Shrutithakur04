@@ -153,16 +153,6 @@
 
 </div>
 
-<div align="center">
-
-<img
-  src="./assets/contributions.dark.svg"
-  width="100%"
-  alt="Shruti Thakur GitHub Contribution Streak"
-/>
-
-</div>
-
 <!-- ================= DEVELOPER MODE ================= -->
 
 # ⚡ Developer Mode
