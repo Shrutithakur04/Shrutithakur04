@@ -156,11 +156,7 @@
 
 <div align="center">
 
-<img
-  src="https://contribkit.app/user/Shrutithakur04.svg?palette=tokyonight&shape=square&background=%230D1117"
-  width="90%"
-  alt="Shruti Thakur Contribution Streak"
-/>
+[![GitHub Contribution Calendar](https://github-contributions-api.jogruber.de/v4/Shrutithakur04?y=last)](https://github.com/Shrutithakur04)
 
 </div>
 
