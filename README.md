@@ -153,10 +153,13 @@
 
 </div>
 
-
 <div align="center">
 
-[![GitHub Contribution Calendar](https://github-contributions-api.jogruber.de/v4/Shrutithakur04?y=last)](https://github.com/Shrutithakur04)
+<img
+  src="./assets/contributions.dark.svg"
+  width="100%"
+  alt="Shruti Thakur GitHub Contribution Streak"
+/>
 
 </div>
 
