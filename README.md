@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="./shruti_thakur_coding_header.gif"
+  src="./github animation.gif"
   alt="Shruti Thakur Coding Header"
   width="100%"
 />
